@@ -1,0 +1,1621 @@
+{
+  "id": "26265788840",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 78042786,
+    "login": "JiaT75",
+    "display_login": "JiaT75",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JiaT75",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78042786?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/95260132",
+      "html_url": "https://github.com/tukaani-project/xz/commit/c1b3991c51824c89c731308ae159ec2db94e627e#r95260132",
+      "id": 95260132,
+      "node_id": "CC_kwDOIQBEvs4FrY3k",
+      "user": {
+        "login": "JiaT75",
+        "id": 78042786,
+        "node_id": "MDQ6VXNlcjc4MDQyNzg2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78042786?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/JiaT75",
+        "html_url": "https://github.com/JiaT75",
+        "followers_url": "https://api.github.com/users/JiaT75/followers",
+        "following_url": "https://api.github.com/users/JiaT75/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JiaT75/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/JiaT75/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JiaT75/subscriptions",
+        "organizations_url": "https://api.github.com/users/JiaT75/orgs",
+        "repos_url": "https://api.github.com/users/JiaT75/repos",
+        "events_url": "https://api.github.com/users/JiaT75/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/JiaT75/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": 5,
+      "line": 210,
+      "path": "src/xz/args.c",
+      "commit_id": "c1b3991c51824c89c731308ae159ec2db94e627e",
+      "created_at": "2023-01-06T12:24:32Z",
+      "updated_at": "2023-01-06T12:24:32Z",
+      "author_association": "MEMBER",
+      "body": "The option was here for a reason. --filters is described in --long-help right before the single filter options, so I don't see why this was moved.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/95260132/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2023-01-06T12:24:32Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "30310556240",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 78042786,
+    "login": "JiaT75",
+    "display_login": "JiaT75",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JiaT75",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78042786?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/121162847",
+      "html_url": "https://github.com/tukaani-project/xz/commit/17f8844e6fc355abf997d77637a7447c4f7bbcbd#commitcomment-121162847",
+      "id": 121162847,
+      "node_id": "CC_kwDOIQBEvs4HOMxf",
+      "user": {
+        "login": "JiaT75",
+        "id": 78042786,
+        "node_id": "MDQ6VXNlcjc4MDQyNzg2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78042786?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/JiaT75",
+        "html_url": "https://github.com/JiaT75",
+        "followers_url": "https://api.github.com/users/JiaT75/followers",
+        "following_url": "https://api.github.com/users/JiaT75/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JiaT75/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/JiaT75/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JiaT75/subscriptions",
+        "organizations_url": "https://api.github.com/users/JiaT75/orgs",
+        "repos_url": "https://api.github.com/users/JiaT75/repos",
+        "events_url": "https://api.github.com/users/JiaT75/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/JiaT75/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "17f8844e6fc355abf997d77637a7447c4f7bbcbd",
+      "created_at": "2023-07-10T12:33:14Z",
+      "updated_at": "2023-07-10T12:33:14Z",
+      "author_association": "MEMBER",
+      "body": "I saw it was valid in C23 during my searches, but I probably should have mentioned this in my commit message. Oh well, anyone reading our commit messages or Changelog should hopefully know we use C99 :)",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/121162847/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2023-07-10T12:33:14Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "32003523811",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 78042786,
+    "login": "JiaT75",
+    "display_login": "JiaT75",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JiaT75",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78042786?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/127985918",
+      "html_url": "https://github.com/tukaani-project/xz/commit/213bbbd7bab6c8f82cbef294be3d5d2ed3a2903f#r127985918",
+      "id": 127985918,
+      "node_id": "CC_kwDOIQBEvs4HoOj-",
+      "user": {
+        "login": "JiaT75",
+        "id": 78042786,
+        "node_id": "MDQ6VXNlcjc4MDQyNzg2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78042786?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/JiaT75",
+        "html_url": "https://github.com/JiaT75",
+        "followers_url": "https://api.github.com/users/JiaT75/followers",
+        "following_url": "https://api.github.com/users/JiaT75/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JiaT75/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/JiaT75/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JiaT75/subscriptions",
+        "organizations_url": "https://api.github.com/users/JiaT75/orgs",
+        "repos_url": "https://api.github.com/users/JiaT75/repos",
+        "events_url": "https://api.github.com/users/JiaT75/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/JiaT75/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": 5,
+      "line": 9,
+      "path": "windows/INSTALL-MSVC.txt",
+      "commit_id": "213bbbd7bab6c8f82cbef294be3d5d2ed3a2903f",
+      "created_at": "2023-09-21T13:37:57Z",
+      "updated_at": "2023-09-21T13:37:57Z",
+      "author_association": "MEMBER",
+      "body": "It could be worth it to mention the version numbers when this was supported. So this line could read:\r\n\r\nMSVC / Visual Studio 2015 and later should be able to build\r\nliblzma (XZ Utils 5.2.0 and later), xzdec, and xz (XZ Utils 5.6.0 and later).\r\n\r\nThis way someone viewing this file will not be confused when their old release does not build xzdec and xz for MSVC.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/127985918/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2023-09-21T13:37:57Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "35049188013",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 78042786,
+    "login": "JiaT75",
+    "display_login": "JiaT75",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JiaT75",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78042786?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/137636490",
+      "html_url": "https://github.com/tukaani-project/xz/commit/58d6e5551a1a8fd71600552e9cfe319310d57fa5#r137636490",
+      "id": 137636490,
+      "node_id": "CC_kwDOIQBEvs4INCqK",
+      "user": {
+        "login": "JiaT75",
+        "id": 78042786,
+        "node_id": "MDQ6VXNlcjc4MDQyNzg2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78042786?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/JiaT75",
+        "html_url": "https://github.com/JiaT75",
+        "followers_url": "https://api.github.com/users/JiaT75/followers",
+        "following_url": "https://api.github.com/users/JiaT75/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JiaT75/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/JiaT75/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JiaT75/subscriptions",
+        "organizations_url": "https://api.github.com/users/JiaT75/orgs",
+        "repos_url": "https://api.github.com/users/JiaT75/repos",
+        "events_url": "https://api.github.com/users/JiaT75/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/JiaT75/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": 31,
+      "line": 390,
+      "path": "src/liblzma/simple/riscv.c",
+      "commit_id": "58d6e5551a1a8fd71600552e9cfe319310d57fa5",
+      "created_at": "2024-01-23T12:56:35Z",
+      "updated_at": "2024-01-23T12:56:35Z",
+      "author_association": "MEMBER",
+      "body": "A small description of the chart could be useful. It took me longer than I would like to admit to realize that the shift amount is row2 - row3. Also someone less familiar with the spec could look at this and be confused",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/137636490/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-01-23T12:56:35Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37005028667",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 11587657,
+    "login": "Scrumplex",
+    "display_login": "Scrumplex",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Scrumplex",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11587657?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140381086",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140381086",
+      "id": 140381086,
+      "node_id": "CC_kwDOIQBEvs4IXgue",
+      "user": {
+        "login": "Scrumplex",
+        "id": 11587657,
+        "node_id": "MDQ6VXNlcjExNTg3NjU3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11587657?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Scrumplex",
+        "html_url": "https://github.com/Scrumplex",
+        "followers_url": "https://api.github.com/users/Scrumplex/followers",
+        "following_url": "https://api.github.com/users/Scrumplex/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Scrumplex/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Scrumplex/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Scrumplex/subscriptions",
+        "organizations_url": "https://api.github.com/users/Scrumplex/orgs",
+        "repos_url": "https://api.github.com/users/Scrumplex/repos",
+        "events_url": "https://api.github.com/users/Scrumplex/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Scrumplex/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T17:53:48Z",
+      "updated_at": "2024-03-29T17:53:48Z",
+      "author_association": "NONE",
+      "body": "As @JiaT75 does not sign their commits, we can't really know if the actual owner of this account authored these commits. ",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140381086/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T17:53:48Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37005767204",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 22376282,
+    "login": "Internal-Compiler-Error",
+    "display_login": "Internal-Compiler-Error",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Internal-Compiler-Error",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22376282?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140381985",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140381985",
+      "id": 140381985,
+      "node_id": "CC_kwDOIQBEvs4IXg8h",
+      "user": {
+        "login": "Internal-Compiler-Error",
+        "id": 22376282,
+        "node_id": "MDQ6VXNlcjIyMzc2Mjgy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22376282?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Internal-Compiler-Error",
+        "html_url": "https://github.com/Internal-Compiler-Error",
+        "followers_url": "https://api.github.com/users/Internal-Compiler-Error/followers",
+        "following_url": "https://api.github.com/users/Internal-Compiler-Error/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Internal-Compiler-Error/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Internal-Compiler-Error/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Internal-Compiler-Error/subscriptions",
+        "organizations_url": "https://api.github.com/users/Internal-Compiler-Error/orgs",
+        "repos_url": "https://api.github.com/users/Internal-Compiler-Error/repos",
+        "events_url": "https://api.github.com/users/Internal-Compiler-Error/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Internal-Compiler-Error/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T18:31:57Z",
+      "updated_at": "2024-03-29T18:31:57Z",
+      "author_association": "NONE",
+      "body": "> As @JiaT75 does not sign their commits, we can't really know if the actual owner of this account authored these commits.\r\n\r\nThe commits are most likely pushed via ssh, so if the ssh key were comprised, how much can you really trust their gpg keys hasn't?",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140381985/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T18:31:57Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37006216888",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 419909,
+    "login": "tv42",
+    "display_login": "tv42",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tv42",
+    "avatar_url": "https://avatars.githubusercontent.com/u/419909?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382593",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140382593",
+      "id": 140382593,
+      "node_id": "CC_kwDOIQBEvs4IXhGB",
+      "user": {
+        "login": "tv42",
+        "id": 419909,
+        "node_id": "MDQ6VXNlcjQxOTkwOQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/419909?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tv42",
+        "html_url": "https://github.com/tv42",
+        "followers_url": "https://api.github.com/users/tv42/followers",
+        "following_url": "https://api.github.com/users/tv42/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tv42/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tv42/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tv42/subscriptions",
+        "organizations_url": "https://api.github.com/users/tv42/orgs",
+        "repos_url": "https://api.github.com/users/tv42/repos",
+        "events_url": "https://api.github.com/users/tv42/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tv42/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T18:55:44Z",
+      "updated_at": "2024-03-29T18:55:44Z",
+      "author_association": "NONE",
+      "body": "To people arguing about whether an attacker got hold of Jia's SSH key, it *doesn't matter*, the following still holds:\r\n\r\n> Someone should investigate JiaT75's other recent commits to other repositories ASAP.\r\n",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382593/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T18:55:44Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37006240067",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 139574773,
+    "login": "kozman1000",
+    "display_login": "kozman1000",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/kozman1000",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139574773?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382631",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140382631",
+      "id": 140382631,
+      "node_id": "CC_kwDOIQBEvs4IXhGn",
+      "user": {
+        "login": "kozman1000",
+        "id": 139574773,
+        "node_id": "U_kgDOCFG99Q",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139574773?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kozman1000",
+        "html_url": "https://github.com/kozman1000",
+        "followers_url": "https://api.github.com/users/kozman1000/followers",
+        "following_url": "https://api.github.com/users/kozman1000/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kozman1000/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kozman1000/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kozman1000/subscriptions",
+        "organizations_url": "https://api.github.com/users/kozman1000/orgs",
+        "repos_url": "https://api.github.com/users/kozman1000/repos",
+        "events_url": "https://api.github.com/users/kozman1000/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kozman1000/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T18:57:03Z",
+      "updated_at": "2024-03-29T18:57:03Z",
+      "author_association": "NONE",
+      "body": "> To people arguing about whether an attacker got hold of Jia's SSH key, it _doesn't matter_, the following still holds:\r\n> \r\n> > Someone should investigate JiaT75's other recent commits to other repositories ASAP.\r\n\r\nLock the account for sure until someone figures it out.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382631/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T18:57:03Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37006313780",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 71613062,
+    "login": "TruncatedDinoSour",
+    "display_login": "TruncatedDinoSour",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TruncatedDinoSour",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71613062?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382727",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140382727",
+      "id": 140382727,
+      "node_id": "CC_kwDOIQBEvs4IXhIH",
+      "user": {
+        "login": "TruncatedDinoSour",
+        "id": 71613062,
+        "node_id": "MDQ6VXNlcjcxNjEzMDYy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71613062?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/TruncatedDinoSour",
+        "html_url": "https://github.com/TruncatedDinoSour",
+        "followers_url": "https://api.github.com/users/TruncatedDinoSour/followers",
+        "following_url": "https://api.github.com/users/TruncatedDinoSour/following{/other_user}",
+        "gists_url": "https://api.github.com/users/TruncatedDinoSour/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/TruncatedDinoSour/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/TruncatedDinoSour/subscriptions",
+        "organizations_url": "https://api.github.com/users/TruncatedDinoSour/orgs",
+        "repos_url": "https://api.github.com/users/TruncatedDinoSour/repos",
+        "events_url": "https://api.github.com/users/TruncatedDinoSour/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/TruncatedDinoSour/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T19:01:13Z",
+      "updated_at": "2024-03-29T19:01:13Z",
+      "author_association": "NONE",
+      "body": "> To people arguing about whether an attacker got hold of Jia's SSH key, it _doesn't matter_, the following still holds:\r\n> \r\n> > Someone should investigate JiaT75's other recent commits to other repositories ASAP.\r\n\r\ni checked out their commits and stuff and https://lore.kernel.org/lkml/20240320183846.19475-1-lasse.collin@tukaani.org/t/ scares me too lmao",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140382727/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T19:01:13Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37007295514",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 981494,
+    "login": "emansom",
+    "display_login": "emansom",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/emansom",
+    "avatar_url": "https://avatars.githubusercontent.com/u/981494?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140383758",
+      "html_url": "https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89#commitcomment-140383758",
+      "id": 140383758,
+      "node_id": "CC_kwDOIQBEvs4IXhYO",
+      "user": {
+        "login": "emansom",
+        "id": 981494,
+        "node_id": "MDQ6VXNlcjk4MTQ5NA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/981494?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/emansom",
+        "html_url": "https://github.com/emansom",
+        "followers_url": "https://api.github.com/users/emansom/followers",
+        "following_url": "https://api.github.com/users/emansom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/emansom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/emansom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/emansom/subscriptions",
+        "organizations_url": "https://api.github.com/users/emansom/orgs",
+        "repos_url": "https://api.github.com/users/emansom/repos",
+        "events_url": "https://api.github.com/users/emansom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/emansom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "6e636819e8f070330d835fce46289a3ff72a7b89",
+      "created_at": "2024-03-29T19:57:49Z",
+      "updated_at": "2024-03-29T19:57:49Z",
+      "author_association": "NONE",
+      "body": "This project needs to be quarantined, all commits made by @JiaT75 and other projects he contributed code with and to, to be considered backdoors and this project to be taken over by a trusted party. If next month a new release is made by @JiaT75 and all distributions packagers just go along with it like nothing happened: nothing was learned from this supply chain attack.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140383758/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T19:57:49Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37008166075",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 71683721,
+    "login": "rilysh",
+    "display_login": "rilysh",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rilysh",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71683721?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140384902",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140384902",
+      "id": 140384902,
+      "node_id": "CC_kwDOIQBEvs4IXhqG",
+      "user": {
+        "login": "rilysh",
+        "id": 71683721,
+        "node_id": "MDQ6VXNlcjcxNjgzNzIx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71683721?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rilysh",
+        "html_url": "https://github.com/rilysh",
+        "followers_url": "https://api.github.com/users/rilysh/followers",
+        "following_url": "https://api.github.com/users/rilysh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rilysh/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rilysh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rilysh/subscriptions",
+        "organizations_url": "https://api.github.com/users/rilysh/orgs",
+        "repos_url": "https://api.github.com/users/rilysh/repos",
+        "events_url": "https://api.github.com/users/rilysh/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rilysh/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T20:49:49Z",
+      "updated_at": "2024-03-29T20:49:49Z",
+      "author_association": "NONE",
+      "body": "> Someone should investigate JiaT75's other recent commits to other repositories ASAP.\r\n\r\nJia is the co-maintainer of xz project, since 2022 and second largest contributor in here.\r\n\r\nIt's very _unlikely_ anyone can sort good and bad ones here, this is quite a trick they did...and seems they did this intentionally...and that's indeed sad to see.\r\n\r\nLinks:\r\n1. https://github.com/tukaani-project/xz/graphs/contributors\r\n2. https://tukaani.org/about.html",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140384902/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T20:49:49Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37008598882",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 131416536,
+    "login": "d4r1us-drk",
+    "display_login": "d4r1us-drk",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/d4r1us-drk",
+    "avatar_url": "https://avatars.githubusercontent.com/u/131416536?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140385517",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140385517",
+      "id": 140385517,
+      "node_id": "CC_kwDOIQBEvs4IXhzt",
+      "user": {
+        "login": "d4r1us-drk",
+        "id": 131416536,
+        "node_id": "U_kgDOB9VB2A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131416536?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/d4r1us-drk",
+        "html_url": "https://github.com/d4r1us-drk",
+        "followers_url": "https://api.github.com/users/d4r1us-drk/followers",
+        "following_url": "https://api.github.com/users/d4r1us-drk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/d4r1us-drk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/d4r1us-drk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/d4r1us-drk/subscriptions",
+        "organizations_url": "https://api.github.com/users/d4r1us-drk/orgs",
+        "repos_url": "https://api.github.com/users/d4r1us-drk/repos",
+        "events_url": "https://api.github.com/users/d4r1us-drk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/d4r1us-drk/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T21:18:19Z",
+      "updated_at": "2024-03-29T21:18:19Z",
+      "author_association": "NONE",
+      "body": "> The contributor has also made contributions to other interesting projects https://github.com/JiaT75?tab=repositories\r\nlibarchive is the one in which he made more contributions apart from xz itself, and it also includes test stuff\r\n\r\nhttps://github.com/libarchive/libarchive/commits/master/?author=JiaT75",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140385517/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T21:18:19Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37008878312",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 91933,
+    "login": "Daniel15",
+    "display_login": "Daniel15",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Daniel15",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91933?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140385842",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140385842",
+      "id": 140385842,
+      "node_id": "CC_kwDOIQBEvs4IXh4y",
+      "user": {
+        "login": "Daniel15",
+        "id": 91933,
+        "node_id": "MDQ6VXNlcjkxOTMz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91933?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Daniel15",
+        "html_url": "https://github.com/Daniel15",
+        "followers_url": "https://api.github.com/users/Daniel15/followers",
+        "following_url": "https://api.github.com/users/Daniel15/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Daniel15/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Daniel15/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Daniel15/subscriptions",
+        "organizations_url": "https://api.github.com/users/Daniel15/orgs",
+        "repos_url": "https://api.github.com/users/Daniel15/repos",
+        "events_url": "https://api.github.com/users/Daniel15/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Daniel15/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T21:38:19Z",
+      "updated_at": "2024-03-29T21:38:19Z",
+      "author_association": "NONE",
+      "body": "> As @JiaT75 does not sign their commits, we can't really know if the actual owner of this account authored these commits.\r\n\r\nEven if they were signed, code signing on GitHub often uses SSH keys, since many people don't like dealing with GPG. If their SSH key was stolen (which IMO is the likely explanation here), the attacker would have also been able to sign the commits with that key. Even if they're using GPG... If an attacker stole the SSH key, they'd probably be able to steal a GPG key too.\r\n\r\nThis is assuming the compromise was via a stolen key, rather than this developer themselves doing it.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140385842/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T21:38:19Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009077039",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 13989090,
+    "login": "qwertychouskie",
+    "display_login": "qwertychouskie",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/qwertychouskie",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13989090?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386085",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140386085",
+      "id": 140386085,
+      "node_id": "CC_kwDOIQBEvs4IXh8l",
+      "user": {
+        "login": "qwertychouskie",
+        "id": 13989090,
+        "node_id": "MDQ6VXNlcjEzOTg5MDkw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13989090?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/qwertychouskie",
+        "html_url": "https://github.com/qwertychouskie",
+        "followers_url": "https://api.github.com/users/qwertychouskie/followers",
+        "following_url": "https://api.github.com/users/qwertychouskie/following{/other_user}",
+        "gists_url": "https://api.github.com/users/qwertychouskie/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/qwertychouskie/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/qwertychouskie/subscriptions",
+        "organizations_url": "https://api.github.com/users/qwertychouskie/orgs",
+        "repos_url": "https://api.github.com/users/qwertychouskie/repos",
+        "events_url": "https://api.github.com/users/qwertychouskie/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/qwertychouskie/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T21:53:03Z",
+      "updated_at": "2024-03-29T21:53:03Z",
+      "author_association": "NONE",
+      "body": "> I'm just commenting to keep updated regarding this incident..\r\n\r\nSame.  This whole project needs an audit from a reasonably-trusted 3rd-party.\r\n\r\n@github This repo in distributing malware, it should probably be frozen until a full investigation is performed.\r\n\r\nI tried to look into Jia Tan some, but I couldn't find *any* information about them as a person.  Their first commit to xz was early 2022 with https://github.com/tukaani-project/xz/commit/6468f7e41a8e9c611e4ba8d34e2175c5dacdbeb4.  What's weird is that it was a direct commit, not a PR or such, though it does say that it was authored by @JiaT75 but committed by @Larhzu.  In fact, all commits are like this up until https://github.com/tukaani-project/xz/commit/8ace358d65059152d9a1f43f4770170d29d35754, which is authored and committed by @JiaT75 via https://github.com/tukaani-project/xz/pull/2.\r\n\r\nMy first thought based on the name was the CCP sticking their hands in things they shouldn't, but given that I couldn't find *any* info on them as a person, now I'm just left with more questions.  Is Jia Tan even a real person?  Was this a long-play by some state actor?  If so, who?  Or was this just one person going rouge with no connections to groups or states, but if that's the case, then why did they do this?  Was this always the goal, or did something change?",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386085/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T21:53:03Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009395752",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 152014,
+    "login": "mgalgs",
+    "display_login": "mgalgs",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mgalgs",
+    "avatar_url": "https://avatars.githubusercontent.com/u/152014?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386481",
+      "html_url": "https://github.com/tukaani-project/xz/commit/a4f2e20d8466369b1bb277c66f75c9e4ba9cc378#commitcomment-140386481",
+      "id": 140386481,
+      "node_id": "CC_kwDOIQBEvs4IXiCx",
+      "user": {
+        "login": "mgalgs",
+        "id": 152014,
+        "node_id": "MDQ6VXNlcjE1MjAxNA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/152014?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mgalgs",
+        "html_url": "https://github.com/mgalgs",
+        "followers_url": "https://api.github.com/users/mgalgs/followers",
+        "following_url": "https://api.github.com/users/mgalgs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mgalgs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mgalgs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mgalgs/subscriptions",
+        "organizations_url": "https://api.github.com/users/mgalgs/orgs",
+        "repos_url": "https://api.github.com/users/mgalgs/repos",
+        "events_url": "https://api.github.com/users/mgalgs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mgalgs/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "a4f2e20d8466369b1bb277c66f75c9e4ba9cc378",
+      "created_at": "2024-03-29T22:17:13Z",
+      "updated_at": "2024-03-29T22:17:13Z",
+      "author_association": "NONE",
+      "body": "Scrolling through some of these commits is kinda scaring me... Was @JiaT75's account taken over by the malicious actors? Or did they really contribute to `xz` for two years in order to build trust so that they could then sneak in the exploit? If it was the latter then there should be some major alarm bells going off right now around the open source community... I still believe that open source is inherently more secure than closed source, but we have to stay on our toes...\r\n\r\nSave us, Open Source Security Foundation, you're our only hope!\r\n\r\nhttps://openssf.org/",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386481/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T22:17:13Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009406620",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 152014,
+    "login": "mgalgs",
+    "display_login": "mgalgs",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mgalgs",
+    "avatar_url": "https://avatars.githubusercontent.com/u/152014?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386511",
+      "html_url": "https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89#commitcomment-140386511",
+      "id": 140386511,
+      "node_id": "CC_kwDOIQBEvs4IXiDP",
+      "user": {
+        "login": "mgalgs",
+        "id": 152014,
+        "node_id": "MDQ6VXNlcjE1MjAxNA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/152014?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mgalgs",
+        "html_url": "https://github.com/mgalgs",
+        "followers_url": "https://api.github.com/users/mgalgs/followers",
+        "following_url": "https://api.github.com/users/mgalgs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mgalgs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mgalgs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mgalgs/subscriptions",
+        "organizations_url": "https://api.github.com/users/mgalgs/orgs",
+        "repos_url": "https://api.github.com/users/mgalgs/repos",
+        "events_url": "https://api.github.com/users/mgalgs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mgalgs/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "6e636819e8f070330d835fce46289a3ff72a7b89",
+      "created_at": "2024-03-29T22:18:01Z",
+      "updated_at": "2024-03-29T22:18:01Z",
+      "author_association": "NONE",
+      "body": "Scrolling through some of these commits is kinda scaring me... Was @JiaT75's account taken over by the malicious actors? Or did they really contribute to `xz` for two years in order to build trust so that they could then sneak in the exploit? If it was the latter then there should be some major alarm bells going off right now around the open source community... I still believe that open source is inherently more secure than closed source, but we have to stay on our toes...\r\n\r\nSave us, Open Source Security Foundation, you're our only hope!\r\n\r\nhttps://openssf.org/",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386511/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T22:18:01Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009815377",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 118211,
+    "login": "ivanov",
+    "display_login": "ivanov",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ivanov",
+    "avatar_url": "https://avatars.githubusercontent.com/u/118211?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386969",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140386969",
+      "id": 140386969,
+      "node_id": "CC_kwDOIQBEvs4IXiKZ",
+      "user": {
+        "login": "ivanov",
+        "id": 118211,
+        "node_id": "MDQ6VXNlcjExODIxMQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ivanov",
+        "html_url": "https://github.com/ivanov",
+        "followers_url": "https://api.github.com/users/ivanov/followers",
+        "following_url": "https://api.github.com/users/ivanov/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ivanov/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ivanov/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ivanov/subscriptions",
+        "organizations_url": "https://api.github.com/users/ivanov/orgs",
+        "repos_url": "https://api.github.com/users/ivanov/repos",
+        "events_url": "https://api.github.com/users/ivanov/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ivanov/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T22:51:30Z",
+      "updated_at": "2024-03-29T22:51:30Z",
+      "author_association": "NONE",
+      "body": "Looks like JiaT75 is now suspended, at least from looking at the followers of [tukaani-project organization](https://github.com/orgs/tukaani-project/followers) \r\n![image](https://github.com/tukaani-project/xz/assets/118211/79bb6028-89f7-407d-ae36-1867236f47fb)\r\n\r\n",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386969/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T22:51:30Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009840682",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 11966684,
+    "login": "rugk",
+    "display_login": "rugk",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rugk",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11966684?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386995",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140386995",
+      "id": 140386995,
+      "node_id": "CC_kwDOIQBEvs4IXiKz",
+      "user": {
+        "login": "rugk",
+        "id": 11966684,
+        "node_id": "MDQ6VXNlcjExOTY2Njg0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11966684?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rugk",
+        "html_url": "https://github.com/rugk",
+        "followers_url": "https://api.github.com/users/rugk/followers",
+        "following_url": "https://api.github.com/users/rugk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rugk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rugk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rugk/subscriptions",
+        "organizations_url": "https://api.github.com/users/rugk/orgs",
+        "repos_url": "https://api.github.com/users/rugk/repos",
+        "events_url": "https://api.github.com/users/rugk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rugk/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T22:53:48Z",
+      "updated_at": "2024-03-29T22:53:48Z",
+      "author_association": "NONE",
+      "body": "> The contributor has also made contributions to other interesting projects https://github.com/JiaT75?tab=repositories\r\n\r\nNote this view is probably more helpful: https://github.com/search?q=author%3AJiaT75&type=pullrequests\r\n\r\nAround 3k commits and 52 PRs to audit?",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140386995/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T22:53:48Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37009877673",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 14303434,
+    "login": "ajbt200128",
+    "display_login": "ajbt200128",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ajbt200128",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14303434?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140387044",
+      "html_url": "https://github.com/tukaani-project/xz/commit/af071ef7702debef4f1d324616a0137a5001c14c#commitcomment-140387044",
+      "id": 140387044,
+      "node_id": "CC_kwDOIQBEvs4IXiLk",
+      "user": {
+        "login": "ajbt200128",
+        "id": 14303434,
+        "node_id": "MDQ6VXNlcjE0MzAzNDM0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14303434?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ajbt200128",
+        "html_url": "https://github.com/ajbt200128",
+        "followers_url": "https://api.github.com/users/ajbt200128/followers",
+        "following_url": "https://api.github.com/users/ajbt200128/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ajbt200128/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ajbt200128/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ajbt200128/subscriptions",
+        "organizations_url": "https://api.github.com/users/ajbt200128/orgs",
+        "repos_url": "https://api.github.com/users/ajbt200128/repos",
+        "events_url": "https://api.github.com/users/ajbt200128/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ajbt200128/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "af071ef7702debef4f1d324616a0137a5001c14c",
+      "created_at": "2024-03-29T22:57:17Z",
+      "updated_at": "2024-03-29T22:57:17Z",
+      "author_association": "NONE",
+      "body": "> It wasn't a memory issue, it is literally an intentional backdoor.\r\nYou're the reason people hate rust fans.\r\n\r\nPeople hate Rust users because it's literally impossible to write unsafe Rust code (if you're not a degenerate that uses unsafe). If xz and sshd were written in Rust, @JiaT75 would not have shipped code that messes up the stack on some systems. Shipping code that handles memory in an unsafe way is wrong, and @JiaT75 should be ashamed for that.",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140387044/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T22:57:17Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37010000686",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 17533405,
+    "login": "agiUnderground",
+    "display_login": "agiUnderground",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/agiUnderground",
+    "avatar_url": "https://avatars.githubusercontent.com/u/17533405?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140387236",
+      "html_url": "https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0#commitcomment-140387236",
+      "id": 140387236,
+      "node_id": "CC_kwDOIQBEvs4IXiOk",
+      "user": {
+        "login": "agiUnderground",
+        "id": 17533405,
+        "node_id": "MDQ6VXNlcjE3NTMzNDA1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17533405?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/agiUnderground",
+        "html_url": "https://github.com/agiUnderground",
+        "followers_url": "https://api.github.com/users/agiUnderground/followers",
+        "following_url": "https://api.github.com/users/agiUnderground/following{/other_user}",
+        "gists_url": "https://api.github.com/users/agiUnderground/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/agiUnderground/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/agiUnderground/subscriptions",
+        "organizations_url": "https://api.github.com/users/agiUnderground/orgs",
+        "repos_url": "https://api.github.com/users/agiUnderground/repos",
+        "events_url": "https://api.github.com/users/agiUnderground/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/agiUnderground/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+      "created_at": "2024-03-29T23:08:08Z",
+      "updated_at": "2024-03-29T23:08:08Z",
+      "author_association": "NONE",
+      "body": "https://github.com/google/oss-fuzz/pull/11279  \r\n\r\nSo it’s all a coincidence? \r\nNothing special, just another fresh/clean account.  \r\n\r\n\"`mvatsyk-lsg` is a new contributor to projects/xz. The PR must be approved by known contributors before it can be merged. The past contributors are: `JiaT75`, inferno-chromium, devtty1er, Dor1s, bshastry (unverified)”  \r\n“If that's possible, I'd like to put this pull request on hold until the updated fuzzing configuration is merged into the main xz repo”   ",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140387236/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-29T23:08:08Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37010592327",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 9441877,
+    "login": "MayCXC",
+    "display_login": "MayCXC",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MayCXC",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9441877?"
+  },
+  "repo": {
+    "id": 553665726,
+    "name": "tukaani-project/xz",
+    "url": "https://api.github.com/repos/tukaani-project/xz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/tukaani-project/xz/comments/140388075",
+      "html_url": "https://github.com/tukaani-project/xz/commit/af071ef7702debef4f1d324616a0137a5001c14c#commitcomment-140388075",
+      "id": 140388075,
+      "node_id": "CC_kwDOIQBEvs4IXibr",
+      "user": {
+        "login": "MayCXC",
+        "id": 9441877,
+        "node_id": "MDQ6VXNlcjk0NDE4Nzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9441877?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/MayCXC",
+        "html_url": "https://github.com/MayCXC",
+        "followers_url": "https://api.github.com/users/MayCXC/followers",
+        "following_url": "https://api.github.com/users/MayCXC/following{/other_user}",
+        "gists_url": "https://api.github.com/users/MayCXC/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/MayCXC/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/MayCXC/subscriptions",
+        "organizations_url": "https://api.github.com/users/MayCXC/orgs",
+        "repos_url": "https://api.github.com/users/MayCXC/repos",
+        "events_url": "https://api.github.com/users/MayCXC/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/MayCXC/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "af071ef7702debef4f1d324616a0137a5001c14c",
+      "created_at": "2024-03-30T00:04:05Z",
+      "updated_at": "2024-03-30T00:04:05Z",
+      "author_association": "NONE",
+      "body": "@JiaT75 what did you mean by this?",
+      "reactions": {
+        "url": "https://api.github.com/repos/tukaani-project/xz/comments/140388075/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-30T00:04:05Z",
+  "org": {
+    "id": 116083088,
+    "login": "tukaani-project",
+    "gravatar_id": "",
+    "url": "https://api.github.com/orgs/tukaani-project",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116083088?"
+  }
+}
+{
+  "id": "37033145549",
+  "type": "CommitCommentEvent",
+  "actor": {
+    "id": 1015847,
+    "login": "tyre",
+    "display_login": "tyre",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tyre",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1015847?"
+  },
+  "repo": {
+    "id": 616460661,
+    "name": "JiaT75/oss-fuzz",
+    "url": "https://api.github.com/repos/JiaT75/oss-fuzz"
+  },
+  "payload": {
+    "comment": {
+      "url": "https://api.github.com/repos/JiaT75/oss-fuzz/comments/140418049",
+      "html_url": "https://github.com/JiaT75/oss-fuzz/commit/6403e93344476972e908ce17e8244f5c2b957dfd#commitcomment-140418049",
+      "id": 140418049,
+      "node_id": "CC_kwDOJL5xdc4IXpwB",
+      "user": {
+        "login": "tyre",
+        "id": 1015847,
+        "node_id": "MDQ6VXNlcjEwMTU4NDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1015847?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tyre",
+        "html_url": "https://github.com/tyre",
+        "followers_url": "https://api.github.com/users/tyre/followers",
+        "following_url": "https://api.github.com/users/tyre/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tyre/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tyre/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tyre/subscriptions",
+        "organizations_url": "https://api.github.com/users/tyre/orgs",
+        "repos_url": "https://api.github.com/users/tyre/repos",
+        "events_url": "https://api.github.com/users/tyre/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tyre/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "position": null,
+      "line": null,
+      "path": null,
+      "commit_id": "6403e93344476972e908ce17e8244f5c2b957dfd",
+      "created_at": "2024-03-31T18:18:53Z",
+      "updated_at": "2024-03-31T18:18:53Z",
+      "author_association": "NONE",
+      "body": "lgtm",
+      "reactions": {
+        "url": "https://api.github.com/repos/JiaT75/oss-fuzz/comments/140418049/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  },
+  "public": true,
+  "created_at": "2024-03-31T18:18:53Z"
+}
